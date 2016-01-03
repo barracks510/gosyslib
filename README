@@ -1,0 +1,8 @@
+Go System Libraries
+===================
+
+This repository contains some very basic system interactions. For now, this
+only includes some very basic OpenSSH functions. 
+
+Everything in this repository is distributed under the GNU GPLv3 or any later
+version. See COPYING for details.
